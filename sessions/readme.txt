@@ -1,0 +1,1 @@
+//special directory for Free hoster.
